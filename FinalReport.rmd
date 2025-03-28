@@ -78,4 +78,3 @@ Since our p values for all of our data are low significant figures we can conclu
 
 As we worked through this categorical data, we compared two different categories of if you did get AIDS or not depending on the results of if the drug or placebo was taken. From the data, we were able to see that the drug was not very helpful because the numbers in stopping affects of AIDS were not significant. If anything, the drug increased the chances of getting AIDS.We were able to examine our p value where we concluded, based on the low values, we could throw out our null hypothesis which supported our suspicion that the drug was ineffective.
 
-
